@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/docappoint_docapp/!svn/ver/3/vendor/engines/patients/app/views/admin/patients
+END
+_sortable_list.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/docappoint_docapp/!svn/ver/3/vendor/engines/patients/app/views/admin/patients/_sortable_list.html.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/docappoint_docapp/!svn/ver/3/vendor/engines/patients/app/views/admin/patients/edit.html.erb
+END
+_patients.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/docappoint_docapp/!svn/ver/3/vendor/engines/patients/app/views/admin/patients/_patients.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/docappoint_docapp/!svn/ver/3/vendor/engines/patients/app/views/admin/patients/index.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/docappoint_docapp/!svn/ver/3/vendor/engines/patients/app/views/admin/patients/new.html.erb
+END
+_actions.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/docappoint_docapp/!svn/ver/3/vendor/engines/patients/app/views/admin/patients/_actions.html.erb
+END
+_records.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/docappoint_docapp/!svn/ver/3/vendor/engines/patients/app/views/admin/patients/_records.html.erb
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/docappoint_docapp/!svn/ver/3/vendor/engines/patients/app/views/admin/patients/_form.html.erb
+END
+_patient.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/docappoint_docapp/!svn/ver/3/vendor/engines/patients/app/views/admin/patients/_patient.html.erb
+END

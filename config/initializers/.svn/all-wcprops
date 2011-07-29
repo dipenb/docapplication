@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/docappoint_docapp/!svn/ver/1/config/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/docappoint_docapp/!svn/ver/1/config/initializers/inflections.rb
+END
+devise.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/docappoint_docapp/!svn/ver/1/config/initializers/devise.rb
+END
+session_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/docappoint_docapp/!svn/ver/1/config/initializers/session_store.rb
+END
+secret_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/docappoint_docapp/!svn/ver/1/config/initializers/secret_token.rb
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/docappoint_docapp/!svn/ver/1/config/initializers/backtrace_silencers.rb
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/docappoint_docapp/!svn/ver/1/config/initializers/mime_types.rb
+END

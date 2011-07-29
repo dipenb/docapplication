@@ -1,0 +1,21 @@
+nb:
+  plugins:
+    patients:
+      title: Patients
+  admin:
+    patients:
+      actions:
+        create_new: Lag en ny Patient
+        reorder: Endre rekkefølgen på Patients
+        reorder_done: Ferdig å endre rekkefølgen Patients
+      records:
+        title: Patients
+        sorry_no_results: Beklager! Vi fant ikke noen resultater.
+        no_items_yet: Det er ingen Patients enda. Klikk på "Lag en ny Patient" for å legge til din første patient.
+      patient:
+        view_live_html: Vis hvordan denne patient ser ut offentlig <br/><em>(åpner i et nytt vindu)</em>
+        edit: Rediger denne patient
+        delete: Fjern denne patient permanent
+  patients:
+    show:
+      other: Andre Patients

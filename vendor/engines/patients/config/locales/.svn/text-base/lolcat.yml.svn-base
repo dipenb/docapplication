@@ -1,0 +1,25 @@
+lolcat:
+  shared:
+    admin:
+      image_picker:
+        image: IMAGE
+  plugins:
+    patients:
+      title: Patients
+  admin:
+    patients:
+      actions:
+        create_new: CREATE NEW Patient
+        reorder: REORDR Patients
+        reorder_done: DUN REORDERIN Patients
+      records:
+        title: Patients
+        sorry_no_results: SRY! THAR R NO RESULTS FINDZ.
+        no_items_yet: THAR R NO Patients YET. CLICK "CREATE NEW Patient" 2 ADD UR FURST patient.
+      patient:
+        view_live_html: VIEW DIS patient LIV <BR/><EM>(OPENS IN NEW WINDOW)</EM>
+        edit: EDIT DIS patient
+        delete: REMOOV DIS patient FOREVR
+  patients:
+    show:
+      other: OTHR Patients

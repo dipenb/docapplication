@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/docappoint_docapp/!svn/ver/0
+END
+Gemfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/docappoint_docapp/!svn/ver/3/Gemfile.lock
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/docappoint_docapp/!svn/ver/1/Rakefile
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/docappoint_docapp/!svn/ver/3/Gemfile
+END
+config.ru
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/docappoint_docapp/!svn/ver/1/config.ru
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/docappoint_docapp/!svn/ver/1/README
+END

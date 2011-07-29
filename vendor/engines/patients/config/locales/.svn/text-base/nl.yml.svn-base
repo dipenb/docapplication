@@ -1,0 +1,21 @@
+nl:
+  plugins:
+    patients:
+      title: Patients
+  admin:
+    patients:
+      actions:
+        create_new: Maak een nieuwe Patient
+        reorder: Wijzig de volgorde van de Patients
+        reorder_done: Klaar met het wijzingen van de volgorde van de Patients
+      records:
+        title: Patients
+        sorry_no_results: Helaas! Er zijn geen resultaten gevonden.
+        no_items_yet: Er zijn nog geen Patients. Druk op 'Maak een nieuwe Patient' om de eerste aan te maken.
+      patient:
+        view_live_html: Bekijk deze patient op de website <br/><em>(opent een nieuw venster)</em>
+        edit: Bewerk deze patient
+        delete: Verwijder deze patient voor eeuwig
+  patients:
+    show:
+      other: Andere Patients

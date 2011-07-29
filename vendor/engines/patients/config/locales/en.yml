@@ -1,0 +1,25 @@
+en:
+  shared:
+    admin:
+      image_picker:
+        image: image
+  plugins:
+    patients:
+      title: Patients
+  admin:
+    patients:
+      actions:
+        create_new: Add New Patient
+        reorder: Reorder Patients
+        reorder_done: Done Reordering Patients
+      records:
+        title: Patients
+        sorry_no_results: Sorry! There are no results found.
+        no_items_yet: There are no Patients yet. Click "Add New Patient" to add your first patient.
+      patient:
+        view_live_html: View this patient live <br/><em>(opens in a new window)</em>
+        edit: Edit this patient
+        delete: Remove this patient forever
+  patients:
+    show:
+      other: Other Patients

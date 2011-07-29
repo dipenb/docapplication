@@ -1,0 +1,59 @@
+<%= form_for [:admin, @patient] do |f| -%>
+  <%= render :partial => "/shared/admin/error_messages", :locals => {
+          :object => @patient,
+          :include_object_name => true
+        } %>
+  
+  <div class='field'>
+    <%= f.label :firstname -%>
+    <%= f.text_field :firstname, :class => 'larger widest'  -%>
+  </div>
+  
+  <div class='field'>
+    <%= f.label :lastname -%>
+    <%= f.text_field :lastname  -%>
+  </div>
+  
+  <div class='field'>
+    <%= f.label :birthdate -%>
+    <%= f.datetime_select :birthdate  -%>
+  </div>
+  
+  <div class='field'>
+    <%= f.label :gender -%>
+    <%= f.text_field :gender  -%>
+  </div>
+  
+  <div class='field'>
+    <%= f.label :ssn_number -%>
+    <%= f.text_field :ssn_number  -%>
+  </div>
+  
+  <div class='field'>
+    <%= f.label :phone_number_1 -%>
+    <%= f.text_field :phone_number_1  -%>
+  </div>
+  
+  <div class='field'>
+    <%= f.label :phone_number_2 -%>
+    <%= f.text_field :phone_number_2  -%>
+  </div>
+  
+  <div class='field'>
+    <%= f.label :email -%>
+    <%= f.text_field :email  -%>
+  </div>
+  
+  <div class='field'>
+    <%= f.label :place -%>
+    <%= f.text_field :place  -%>
+  </div>
+  
+  <%= render :partial => "/shared/admin/form_actions",
+              :locals => {
+                :f => f,
+                :continue_editing => false,
+                :delete_title => t('delete', :scope => 'admin.patients.patient'),
+                :delete_confirmation => t('message', :scope => 'shared.admin.delete', :title => @patient.firstname)
+              } %>
+<% end -%>

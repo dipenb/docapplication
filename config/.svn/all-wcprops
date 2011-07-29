@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/docappoint_docapp/!svn/ver/1/config
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/docappoint_docapp/!svn/ver/1/config/routes.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/docappoint_docapp/!svn/ver/1/config/database.yml
+END
+application.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/docappoint_docapp/!svn/ver/1/config/application.rb
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/docappoint_docapp/!svn/ver/1/config/boot.rb
+END
+database.yml.postgresql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/docappoint_docapp/!svn/ver/1/config/database.yml.postgresql
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/docappoint_docapp/!svn/ver/1/config/environment.rb
+END
+database.yml.sqlite3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/docappoint_docapp/!svn/ver/1/config/database.yml.sqlite3
+END
+database.yml.mysql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/docappoint_docapp/!svn/ver/1/config/database.yml.mysql
+END
+i18n-js.yml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/docappoint_docapp/!svn/ver/1/config/i18n-js.yml
+END

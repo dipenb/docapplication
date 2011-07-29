@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/docappoint_docapp/!svn/ver/1/db/migrate
+END
+20110618092602_create_refinerycms_settings_schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092602_create_refinerycms_settings_schema.rb
+END
+20110618092607_add_remember_created_at_to_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092607_add_remember_created_at_to_users.rb
+END
+20110618092614_remove_translated_fields_from_pages.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092614_remove_translated_fields_from_pages.rb
+END
+20110618092603_add_value_type_to_refinery_settings.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092603_add_value_type_to_refinery_settings.rb
+END
+20110618092608_remove_password_salt_from_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092608_remove_password_salt_from_users.rb
+END
+20110729075135_create_patients.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/docappoint_docapp/!svn/ver/3/db/migrate/20110729075135_create_patients.rb
+END
+20110618092612_remove_cached_slug_from_pages.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092612_remove_cached_slug_from_pages.rb
+END
+20110618092606_change_to_devise_users_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092606_change_to_devise_users_table.rb
+END
+20110618092615_create_seo_meta.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092615_create_seo_meta.rb
+END
+20110618092601_add_locale_to_slugs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092601_add_locale_to_slugs.rb
+END
+20110618092609_create_refinerycms_images_schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092609_create_refinerycms_images_schema.rb
+END
+20110618092616_create_refinerycms_resources_schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092616_create_refinerycms_resources_schema.rb
+END
+20110618092604_create_refinerycms_authentication_schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092604_create_refinerycms_authentication_schema.rb
+END
+20110618092605_add_missing_indexes_to_roles_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092605_add_missing_indexes_to_roles_users.rb
+END
+20110618092600_create_refinerycms_core_schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092600_create_refinerycms_core_schema.rb
+END
+20110618092613_translate_custom_title_on_pages.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092613_translate_custom_title_on_pages.rb
+END
+20110618092611_translate_page_plugin.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092611_translate_page_plugin.rb
+END
+20110618092610_create_refinerycms_pages_schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/docappoint_docapp/!svn/ver/1/db/migrate/20110618092610_create_refinerycms_pages_schema.rb
+END

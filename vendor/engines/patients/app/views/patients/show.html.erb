@@ -1,0 +1,75 @@
+<% content_for :body_content_title do %>
+  <%= @patient.firstname %>
+<% end %>
+
+<% content_for :body_content_left do %>
+  <section>
+    <h1>Firstname</h1>
+    <p>
+      <%=raw @patient.firstname %>
+    </p>
+  </section>
+  <section>
+    <h1>Lastname</h1>
+    <p>
+      <%=raw @patient.lastname %>
+    </p>
+  </section>
+  <section>
+    <h1>Birthdate</h1>
+    <p>
+      <%=raw @patient.birthdate %>
+    </p>
+  </section>
+  <section>
+    <h1>Gender</h1>
+    <p>
+      <%=raw @patient.gender %>
+    </p>
+  </section>
+  <section>
+    <h1>Ssn Number</h1>
+    <p>
+      <%=raw @patient.ssn_number %>
+    </p>
+  </section>
+  <section>
+    <h1>Phone Number 1</h1>
+    <p>
+      <%=raw @patient.phone_number_1 %>
+    </p>
+  </section>
+  <section>
+    <h1>Phone Number 2</h1>
+    <p>
+      <%=raw @patient.phone_number_2 %>
+    </p>
+  </section>
+  <section>
+    <h1>Email</h1>
+    <p>
+      <%=raw @patient.email %>
+    </p>
+  </section>
+  <section>
+    <h1>Place</h1>
+    <p>
+      <%=raw @patient.place %>
+    </p>
+  </section>
+<% end %>
+
+<% content_for :body_content_right do %>
+  <aside>
+    <h2><%= t('.other') %></h2>
+    <ul id="patients">
+      <% @patients.each do |patient| %>
+        <li>
+          <%= link_to patient.firstname, patient_path(patient) %>
+        </li>
+      <% end %>
+    </ul>
+  </aside>
+<% end %>
+
+<%= render :partial => "/shared/content_page" %>

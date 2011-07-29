@@ -1,0 +1,25 @@
+fr:
+  shared:
+    admin:
+      image_picker:
+        image: image
+  plugins:
+    patients:
+      title: Patients
+  admin:
+    patients:
+      actions:
+        create_new: Créer un(e) nouve(au/l/lle) Patient
+        reorder: Réordonner les Patients
+        reorder_done: Fin de réordonnancement des Patients
+      records:
+        title: Patients
+        sorry_no_results: "Désolé ! Aucun résultat."
+        no_items_yet: 'Il n''y a actuellement aucun(e) Patient. Cliquer sur "Créer un(e) nouve(au/l/lle) Patient" pour créer votre premi(er/ère) patient.'
+      patient:
+        view_live_html: Voir ce(t/tte) patient <br/><em>(Ouvre une nouvelle fenêtre)</em>
+        edit: Modifier ce(t/tte) patient
+        delete: Supprimer définitivement ce(t/tte) patient
+  patients:
+    show:
+      other: Autres Patients
